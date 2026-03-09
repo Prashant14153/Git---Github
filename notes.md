@@ -12,3 +12,10 @@ git reset --hard HEAD~1
 --hard || --soft || --mixed
 
 1 -> saved point
+
+
+<!-- git status -s -->
+
+git status -s
+-> 
+
